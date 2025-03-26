@@ -4,3 +4,5 @@ export type TUser = {
     gender: "male" | "female" | "other"
     bio?: string
 }
+
+export type TUserField = keyof TUser;

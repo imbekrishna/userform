@@ -1,5 +1,3 @@
-http://localhost:5173
-
 ### Problem statement
 Build a front-end app, that accepts user details in a form and on submit store
 the info.
